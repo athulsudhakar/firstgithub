@@ -1,0 +1,20 @@
+#no{
+    background-color:brown;
+    border: teal solid 5px;
+    border-style: dotted dashed groove;
+
+}
+
+h1{
+    background-image: url(PHOTOS/moonga.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.bo{
+    color:rgba(46, 139, 87,0.5);
+
+
+}
